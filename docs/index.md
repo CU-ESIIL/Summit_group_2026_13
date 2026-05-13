@@ -60,12 +60,16 @@ your team roster (2-3 min).
 
     [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
-| Name              | Affiliation               | Contact            | Github   |
-| ----------------- | ------------------------- | ------------------ | -------- |
-|                   |                           |                    |          |
-| Naupaka Zimmerman | University of Kansas      | naupaka@gmail.com  | naupaka  |
-| Lala Kounta       | Michigan State University | kountalala@msu.edu | lkounta  |
-| C. Jason Tinant   | Oglala Lakota College     | jtinant@olc.edu    | cjtinant |
+| Name                  | Affiliation                 | Contact                | Github          |
+| --------------------- | --------------------------- | ---------------------- | --------------- |
+|                       |                             |                        |                 |
+| Naupaka Zimmerman     | University of Kansas        | naupaka@gmail.com      | naupaka         |
+| Lala Kounta           | Michigan State University   | kountalala@msu.edu     | lkounta         |
+| Lilly Jones           | CIRES Earth Lab, CU Boulder | lijo8146@colorado.edu  | daearconsulting |
+| Joni Tobacco          | Salish Kootenai College     | jktobacco@gmail.com    | jonit12324      |
+| Elisha Yellow Thunder | Oglala Lakota College/SDSU  | eyellowthunder@olc.edu | wakinyanzi      |
+| C. Jason Tinant       | Oglala Lakota College       | jtinant@olc.edu        | cjtinant        |
+| Chong Seok Choi       | Cornell University          | cc3226@cornell.edu     | chongseokchoi   |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -194,6 +198,12 @@ Promising data sources:
 !!! note "methods" Add 2-4 methods/technologies we're testing (stats, models,
 viz).
 
+- LLM/agentic harmonization of input data (topography, weather, streamflow,
+  geology, land use, etc.)
+- LLM-based PDF scraping of mine permit information (location, type, etc.)
+- SWAT (Soil and Water Assessment Tool)
+- Stream Vulnerability Index
+
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_13/tree/main/code){
 .md-button }
 
@@ -208,8 +218,8 @@ Methods/technologies we are testing:
 
 ### Challenges identified
 
-- ...
-- ...
+- Finding mine permits and extracting geographic information
+- Water quality data is sparse
 
 ### Visuals
 

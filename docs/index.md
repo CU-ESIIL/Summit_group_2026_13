@@ -4,6 +4,7 @@ public_mode_toggle: true
 ---
 # Team name: Lucky 13
 # Predicting Water Impacts from Current and Future Mining in the Black Hills, SD
+### (w/ a Digital Twin framework)
 
 ![Sacred Sites in the Black Hills region, SD](assets/BadHeartBull_Map.png)
 

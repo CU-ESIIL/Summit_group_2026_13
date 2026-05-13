@@ -5,7 +5,7 @@ public_mode_toggle: true
 
 # Building a Digital Twin for Mining Impacts to Water in the Black Hills, SD
 
-![Fire perimeter velocity example](assets/hero/hero.jpg)
+![Fire perimeter velocity example](assets/esiil_art/fancy_dandilion.png)
 
 !!! tip "How to use this page during the Summit"
     - This page is your team’s shared workspace and final report-out page. It captures your group’s process and thinking throughout the Summit and will be used to share your work with others. 
@@ -23,8 +23,7 @@ public_mode_toggle: true
     - If you turn off 'Instructions' then you will only see the page content for public display.
     
 
-# Investigating potential water impacts of existing and future mining sites in the Black Hills region, SD.
-# Team (lucky) 13: Mining impacts to water in the Black Hills region, SD
+## Team (lucky) 13: 
 
 !!! note "Day 1 directions"
     Change the title to the name of your project.

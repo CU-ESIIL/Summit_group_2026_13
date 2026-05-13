@@ -2,8 +2,9 @@
 title: Team Home
 public_mode_toggle: true
 ---
-
+# Team name: Lucky 13
 # Predicting Water Impacts from Current and Future Mining in the Black Hills, SD
+### (w/ a Digital Twin framework)
 
 ![Sacred Sites in the Black Hills region, SD](assets/BadHeartBull_Map.png)
 
@@ -70,6 +71,11 @@ your team roster (2-3 min).
 | Elisha Yellow Thunder | Oglala Lakota College/SDSU  | eyellowthunder@olc.edu | wakinyanzi      |
 | C. Jason Tinant       | Oglala Lakota College       | jtinant@olc.edu        | cjtinant        |
 | Chong Seok Choi       | Cornell University          | cc3226@cornell.edu     | chongseokchoi   |
+| Sankung Fatty       | --          | fattysankung9@gmail.com     | --   |
+| Al Kaushkis       | --          | akuslikis@gmail.com     | --   |
+| Max Cook       | University of Colorado | maxwell.cook@colorado.edu     | --   |
+| Erica Laundreaux | -- | erica.lx32@gmail.com | -- |
+
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 

@@ -138,11 +138,11 @@ Long term:
 
 Our working question:
 
-...
+How are existing and proposed mine sites in the Black Hills region of South Dakota impacting water resources downstream? How are sacred sites in Black Hills geogrpahically related to proposed mining exploration?
 
 What would count as progress:
 
-...
+Progress might look like a framework for a Digital Twin for the Black Hills region that can integrate water impact models (e.g., SWAT). A case study integrating mining permits and water modeling would be ideal! Eventually, we want a dashboard to allow users to explore potential impacts at a gievn location.
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 

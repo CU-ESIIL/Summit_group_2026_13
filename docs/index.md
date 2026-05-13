@@ -68,6 +68,8 @@ public_mode_toggle: true
 |---|---|---|---|
 | | | | |
 | Naupaka Zimmerman | University of Kansas | naupaka@gmail.com | naupaka |
+| Lala Kounta| Michigan State University| kountalala@msu.edu | lkounta |
+
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 

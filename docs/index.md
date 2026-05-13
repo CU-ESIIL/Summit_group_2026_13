@@ -3,7 +3,9 @@ title: Team Home
 public_mode_toggle: true
 ---
 
-# Investigating potential water impacts of existing and future mining sites in the Black Hills region, SD.
+# Building a Digital Twin for Mining Impacts to Water in the Black Hills, SD
+
+![Fire perimeter velocity example](assets/hero/hero.jpg)
 
 !!! tip "How to use this page during the Summit"
     - This page is your team’s shared workspace and final report-out page. It captures your group’s process and thinking throughout the Summit and will be used to share your work with others. 

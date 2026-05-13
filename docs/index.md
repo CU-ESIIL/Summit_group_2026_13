@@ -69,7 +69,9 @@ public_mode_toggle: true
 | | | | |
 | Naupaka Zimmerman | University of Kansas | naupaka@gmail.com | naupaka |
 | Lala Kounta| Michigan State University| kountalala@msu.edu | lkounta |
-
+| Lilly Jones| CIRES Earth Lab, CU Boulder| lijo8146@colorado.edu | daearconsulting |
+| Joni Tobacco|Salish Kootenai College | jktobacco@gmail.com | jonit12324  |
+| Elisha Yellow Thunder|Oglala Lakota College/SDSU | eyellowthunder@olc.edu | wakinyanzi |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 

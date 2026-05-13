@@ -71,7 +71,7 @@ your team roster (2-3 min).
 | C. Jason Tinant       | Oglala Lakota College       | jtinant@olc.edu        | cjtinant        |
 | Chong Seok Choi       | Cornell University          | cc3226@cornell.edu     | chongseokchoi   |
 | Sankung Fatty       | --          | fattysankung9@gmail.com     | --   |
-| Al Kaushkis       | --          | akushkis@gmail.com     | --   |
+| Al Kaushkis       | --          | akuslikis@gmail.com     | --   |
 | Max Cook       | University of Colorado | maxwell.cook@colorado.edu     | --   |
 | Erica Laundreaux | -- | erica.lx32@gmail.com | -- |
 

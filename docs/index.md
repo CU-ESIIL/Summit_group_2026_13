@@ -60,6 +60,14 @@ Get to know your team: share your cards (5-7 mins). Update your team roster (2-3
 
     [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
+| Name | Affiliation | Contact | Github |
+|---|---|---|---|
+| | | | |
+| Naupaka Zimmerman | University of Kansas | naupaka@gmail.com | naupaka |
+| Lala Kounta| Michigan State University| kountalala@msu.edu | lkounta |
+| Lilly Jones| CIRES Earth Lab, CU Boulder| lijo8146@colorado.edu | daearconsulting |
+| Joni Tobacco|Salish Kootenai College | jktobacco@gmail.com | jonit12324  |
+| Elisha Yellow Thunder|Oglala Lakota College/SDSU | eyellowthunder@olc.edu | wakinyanzi |
 | Name              | Affiliation               | Contact            | Github   |
 | ----------------- | ------------------------- | ------------------ | -------- |
 |                   |                           |                    |          |

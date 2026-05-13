@@ -94,7 +94,9 @@ your team roster (2-3 min).
 Our team norms:
 
 - Define everything:
-  - **Goal:** To predict water impacts from current and future mining.
+  - **Goals:**
+  - To predict water impacts from current and future mining in the Black Hills,
+    SD.
   - Raise awareness on Tribal issues of mining impacts.
   - Grow and share our data science knowledge.
 
@@ -102,12 +104,11 @@ Our team norms:
   - Include only open data
   - Centralize in repository
 
-- keep a team log
-- protect intellectual properties
-- AI authorship agreement
-- Possible pitfalls
-
-Our decision making strategy:
+- **How we will keep a team log**
+- **How we protect others intellectual property**
+- **What is our AI authorship agreement**
+- **What are our Possible pitfalls**
+- **What is our decision making strategy:**
 
 ...
 

@@ -176,6 +176,11 @@ Promising data sources:
 !!! note "methods"
 Add 2-4 methods/technologies we're testing (stats, models, viz).
 
+- LLM/agentic harmonization of input data (topography, weather, streamflow, geology, land use, etc.)
+- LLM-based PDF scraping of mine permit information (location, type, etc.)
+- SWAT (Soil and Water Assessment Tool)
+- Stream Vulnerability Index
+
 [View shared code](https://github.com/CU-ESIIL/Summit_group_2026_13/tree/main/code){ .md-button }
 
 Methods/technologies we are testing:
@@ -189,8 +194,8 @@ Methods/technologies we are testing:
 
 ### Challenges identified
 
-- ...
-- ...
+- Finding mine permits and extracting geographic information
+- Water quality data is sparse
 
 ### Visuals
 

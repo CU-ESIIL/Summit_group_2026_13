@@ -7,7 +7,9 @@ public_mode_toggle: true
 
 ![Sacred Sites in the Black Hills region, SD](assets/BadHeartBull_Map.png)
 
-!!! tip "How to use this page during the Summit" - This page is your team’s shared workspace and final report-out page. It captures your group’s process and thinking throughout the Summit and will be used to share your work with others.
+!!! tip "How to use this page during the Summit" - This page is your team’s
+shared workspace and final report-out page. It captures your group’s process and
+thinking throughout the Summit and will be used to share your work with others.
 
     - Use this page as your team’s working record during the Summit and your final report-out.
 
@@ -23,13 +25,11 @@ public_mode_toggle: true
 
 ## Team (lucky) 13:
 
-!!! note "Day 1 directions"
-Change the title to the name of your project.
+!!! note "Day 1 directions" Change the title to the name of your project.
 
     [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
 
-!!! tip "For ESIIL staff"
-Group Number: 13
+!!! tip "For ESIIL staff" Group Number: 13
 
     Breakout Room #: S127
 
@@ -37,8 +37,8 @@ Group Number: 13
 
 ![Team hero image](assets/hero/hero.png)
 
-!!! note "How to replace the image above"
-Upload an image that represents your project and welcome people to your page.
+!!! note "How to replace the image above" Upload an image that represents your
+project and welcome people to your page.
 
     Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
     Keep the file path `docs/assets/hero/hero.png` if you want the Markdown above to keep working.
@@ -49,8 +49,8 @@ Upload an image that represents your project and welcome people to your page.
 
 ## People { #people .oasis-report-out-context }
 
-!!! note "Day 1 task"
-Get to know your team: share your cards (5-7 mins). Update your team roster (2-3 min).
+!!! note "Day 1 task" Get to know your team: share your cards (5-7 mins). Update
+your team roster (2-3 min).
 
     Use the in-person name cards to guide quick introductions.
 
@@ -89,9 +89,19 @@ Get to know your team: share your cards (5-7 mins). Update your team roster (2-3
 
 Our team norms:
 
-- ...
-- ...
-- ...
+- Define everything:
+  - **Goal:** To predict water impacts from current and future mining.
+  - Raise awareness on Tribal issues of mining impacts.
+  - Grow and share our data science knowledge.
+
+- **transparency and processes**
+  - Include only open data
+  - Centralize in repository
+
+- keep a team log
+- protect intellectual properties
+- AI authorship agreement
+- Possible pitfalls
 
 Our decision making strategy:
 
@@ -99,8 +109,8 @@ Our decision making strategy:
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "Day 2 Tasks"
-Morning Focus: questions, hypotheses, context; add at least one visual (photo of whiteboard/notes)
+!!! note "Day 2 Tasks" Morning Focus: questions, hypotheses, context; add at
+least one visual (photo of whiteboard/notes)
 
     Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test.
 
@@ -108,7 +118,8 @@ Morning Focus: questions, hypotheses, context; add at least one visual (photo of
 
 Short term:
 
-- Acquire mining permit information and geospatial locations of proposed and current mine sites
+- Acquire mining permit information and geospatial locations of proposed and
+  current mine sites
 - Set up agentic AI to scrape and extract information from mining permits
 - Gather and harmonize (agentic LLM) input data including:
 - - Topography (DEM)
@@ -129,17 +140,24 @@ Long term:
 
 ![Day 2 morning whiteboard or notes photo](assets/IMG_6386.png)
 
-_Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2._
+_Morning whiteboard or notes showing the question, hypotheses, and context we
+used to start Day 2._
 
 ## Our question(s) 📣 { #project-question .oasis-report-out-section .oasis-report-out-day2 }
 
 Our working question:
 
-How are existing and proposed mine sites in the Black Hills region of South Dakota impacting water resources downstream? How are sacred sites in Black Hills geogrpahically related to proposed mining exploration?
+How are existing and proposed mine sites in the Black Hills region of South
+Dakota impacting water resources downstream? How are sacred sites in Black Hills
+geogrpahically related to proposed mining exploration?
 
 What would count as progress:
 
-Progress might look like a framework for a Digital Twin for the Black Hills region that can integrate water impact models (e.g., SWAT). A case study integrating mining permits and water modeling would be ideal! Eventually, we want a dashboard to allow users to explore potential impacts at a gievn location.
+Progress might look like a framework for a Digital Twin for the Black Hills
+region that can integrate water impact models (e.g., SWAT). A case study
+integrating mining permits and water modeling would be ideal! Eventually, we
+want a dashboard to allow users to explore potential impacts at a gievn
+location.
 
 ## Hypotheses/Intentions [Optional: probably not relevant if you are creating an educational tool]
 
@@ -155,8 +173,8 @@ People who could use this:
 
 ## Data sources we’re exploring 📣 { #data-exploration .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "data exploration"
-Provide a snapshot showing some initial data patterns.
+!!! note "data exploration" Provide a snapshot showing some initial data
+patterns.
 
     Add 2-4 promising data sources (links +1-line notes)
 
@@ -173,10 +191,11 @@ Promising data sources:
 
 ## Methods/technologies we’re testing 📣 { #methods-and-code .oasis-report-out-section .oasis-report-out-day2 }
 
-!!! note "methods"
-Add 2-4 methods/technologies we're testing (stats, models, viz).
+!!! note "methods" Add 2-4 methods/technologies we're testing (stats, models,
+viz).
 
-[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_13/tree/main/code){ .md-button }
+[View shared code](https://github.com/CU-ESIIL/Summit_group_2026_13/tree/main/code){
+.md-button }
 
 Methods/technologies we are testing:
 
@@ -202,8 +221,9 @@ Short term:
 
 Long term:
 
-!!! note "Day 3 Tasks"
-Sythesis: highlight 2-3 visuals that tell the story; keep text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions -> Data/Methods -> Findings -> Next
+!!! note "Day 3 Tasks" Sythesis: highlight 2-3 visuals that tell the story; keep
+text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions ->
+Data/Methods -> Findings -> Next
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
 
@@ -251,6 +271,7 @@ Who should see this next
 
 If you use these materials, please cite:
 
-Summit Team. (2026). _Summit Group 2026 Team 13 — Innovation Summit 2026_. https://github.com/CU-ESIIL/Summit_group_2026_13
+Summit Team. (2026). _Summit Group 2026 Team 13 — Innovation Summit 2026_.
+https://github.com/CU-ESIIL/Summit_group_2026_13
 
 License: CC-BY-4.0 unless noted.

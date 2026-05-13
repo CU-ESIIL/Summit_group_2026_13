@@ -68,12 +68,8 @@ Get to know your team: share your cards (5-7 mins). Update your team roster (2-3
 | Lilly Jones| CIRES Earth Lab, CU Boulder| lijo8146@colorado.edu | daearconsulting |
 | Joni Tobacco|Salish Kootenai College | jktobacco@gmail.com | jonit12324  |
 | Elisha Yellow Thunder|Oglala Lakota College/SDSU | eyellowthunder@olc.edu | wakinyanzi |
-| Name              | Affiliation               | Contact            | Github   |
-| ----------------- | ------------------------- | ------------------ | -------- |
-|                   |                           |                    |          |
-| Naupaka Zimmerman | University of Kansas      | naupaka@gmail.com  | naupaka  |
-| Lala Kounta       | Michigan State University | kountalala@msu.edu | lkounta  |
 | C. Jason Tinant   | Oglala Lakota College     | jtinant@olc.edu    | cjtinant |
+| Chong Seok Choi | Cornell University | cc3226@cornell.edu    | chongseokchoi |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 

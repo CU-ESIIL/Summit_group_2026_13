@@ -3,6 +3,8 @@ title: Team Home
 public_mode_toggle: true
 ---
 
+# What are potential water impacts of proposed mining sites in the Black Hills region, SD?
+
 !!! tip "How to use this page during the Summit"
     - This page is your team’s shared workspace and final report-out page. It captures your group’s process and thinking throughout the Summit and will be used to share your work with others. 
     

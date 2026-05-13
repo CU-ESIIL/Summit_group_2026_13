@@ -112,7 +112,7 @@ Short term:
 
 - Acquire mining permit information and geospatial locations of proposed and current mine sites
 - Set up agentic AI to scrape and extract information from mining permits
-- Gather and harmonize input data including:
+- Gather and harmonize (agentic LLM) input data including:
 - - Topography (DEM)
   - Climate (PRISM, Temp/Precip)
   - Geologic Maps
@@ -120,6 +120,8 @@ Short term:
   - Stremflow data (USGS)
   -     - streamstats tool
   - OpenET for Evapotranspiration data
+  - Snow cover
+  - SSURGO (soils)
 
 
 Long term:
@@ -128,7 +130,7 @@ Long term:
 - - SWAT (Soil and Water Assessment Tool)
   - Stream Vulnerability Index
 
-![Day 2 morning whiteboard or notes photo](assets/whiteboards/day2_morning_whiteboard.svg)
+![Day 2 morning whiteboard or notes photo](assets/IMG_6386.png)
 
 *Morning whiteboard or notes showing the question, hypotheses, and context we used to start Day 2.*
 

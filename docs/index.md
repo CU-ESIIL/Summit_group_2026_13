@@ -67,7 +67,7 @@ public_mode_toggle: true
 | Name | Affiliation | Contact | Github |
 |---|---|---|---|
 | | | | |
-| | | | |
+| Naupaka Zimmerman | University of Kansas | naupaka@gmail.com | naupaka |
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 

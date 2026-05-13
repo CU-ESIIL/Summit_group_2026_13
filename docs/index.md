@@ -70,6 +70,11 @@ your team roster (2-3 min).
 | Elisha Yellow Thunder | Oglala Lakota College/SDSU  | eyellowthunder@olc.edu | wakinyanzi      |
 | C. Jason Tinant       | Oglala Lakota College       | jtinant@olc.edu        | cjtinant        |
 | Chong Seok Choi       | Cornell University          | cc3226@cornell.edu     | chongseokchoi   |
+| Sankung Fatty       | --          | fattysankung9@gmail.com     | --   |
+| Al Kaushkis       | --          | akushkis@gmail.com     | --   |
+| Max Cook       | University of Colorado | maxwell.cook@colorado.edu     | --   |
+| Erica Laundreaux | -- | erica.lx32@gmail.com | -- |
+
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 

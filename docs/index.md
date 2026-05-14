@@ -13,7 +13,7 @@ public_mode_toggle: true
 ![Lucky 13 Project Workflow 2 (made in Claude Cowork)](assets/pipeline_slide/pipeline_slide2.png)
 ![Lucky 13 Project Workflow 1 (made in Claude Cowork)](assets/pipeline_slide/pipeline_slide.png)
 
-![Data Dashboard](https://github.com](https://github.com/naupaka/2026-ESIIL-LLM-exemplar/blob/black-hills/workflows/black_hills_mining_water_impact/output/harmonized_visualization.html)
+![Data Dashboard](https://github.com/naupaka/2026-ESIIL-LLM-exemplar/blob/black-hills/workflows/black_hills_mining_water_impact/output/harmonized_visualization.html)
 
 ![Dashboard Screenshot (link to work soon)](assets/dashboard_screenshot.png)
 

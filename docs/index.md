@@ -34,6 +34,8 @@ public_mode_toggle: true
 | Max Cook       | Colorado State University | maxwell.cook@colostate.edu     | maxwellCcook   |
 | Erica Laundreaux | -- | erica.lx32@gmail.com | -- |
 
+## Team Photo { #team-photo }
+![Team photo](assets/1000004595.jpg)
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -176,10 +178,6 @@ text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions ->
 Data/Methods -> Findings -> Next
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
-
-## Team Photo { #team-photo }
-
-![Team photo](assets/1000004595.jpg)
 
 _Team members and collaborators who contributed to this project._
 

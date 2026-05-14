@@ -13,7 +13,7 @@ public_mode_toggle: true
 ![Lucky 13 Project Workflow 2 (made in Claude Cowork)](assets/pipeline_slide/pipeline_slide2.png)
 ![Lucky 13 Project Workflow 1 (made in Claude Cowork)](assets/pipeline_slide/pipeline_slide.png)
 
-![Data Dashboard](https://github.com/naupaka/2026-ESIIL-LLM-exemplar/blob/black-hills/workflows/black_hills_mining_water_impact/output/harmonized_visualization.html)
+[Data Dashboard](https://github.com/naupaka/2026-ESIIL-LLM-exemplar/blob/black-hills/workflows/black_hills_mining_water_impact/output/harmonized_visualization.html)
 
 ![Dashboard Screenshot (link to work soon)](assets/dashboard_screenshot.png)
 
@@ -34,6 +34,8 @@ public_mode_toggle: true
 | Max Cook       | Colorado State University | maxwell.cook@colostate.edu     | maxwellCcook   |
 | Erica Laundreaux | -- | erica.lx32@gmail.com | -- |
 
+## Team Photo { #team-photo }
+![Team photo](assets/1000004595.jpg)
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
@@ -176,10 +178,6 @@ text crisp. Practice a 6-minute walkthrough of the homepage. Why -> Questions ->
 Data/Methods -> Findings -> Next
 
     [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L203){ .md-button target="_blank" rel="noopener" }
-
-## Team Photo { #team-photo }
-
-![Team photo](images/1000004595.jpg)
 
 _Team members and collaborators who contributed to this project._
 

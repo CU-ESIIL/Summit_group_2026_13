@@ -16,6 +16,7 @@ public_mode_toggle: true
 [Data Dashboard](https://github.com/naupaka/2026-ESIIL-LLM-exemplar/blob/black-hills/workflows/black_hills_mining_water_impact/output/harmonized_visualization.html)
 
 ![Dashboard Screenshot (link to work soon)](assets/dashboard_screenshot.png)
+![Dashboard Screenshot (link to work soon)](assets/image_dashboard.png)
 
 ## People { #people .oasis-report-out-context }
 

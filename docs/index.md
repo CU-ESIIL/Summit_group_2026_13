@@ -8,56 +8,12 @@ public_mode_toggle: true
 
 ![Sacred Sites in the Black Hills region, SD](assets/BadHeartBull_Map.png)
 
-!!! tip "How to use this page during the Summit" - This page is your team’s
-shared workspace and final report-out page. It captures your group’s process and
-thinking throughout the Summit and will be used to share your work with others.
-
-    - Use this page as your team’s working record during the Summit and your final report-out.
-
-    - The Summit has several different goals and thus you will use the page differently each day: Day 1 is for alignment, Day 2 is for building one useful thing, and Day 3 is for synthesis and report- out.
-
-    - Look for the green buttons to indicate what you need to edit.
-
-    - Megaphones 📣 indicate which items you will be presenting during the end-of-day report-outs.
-
-    - Only the items with megaphones will be visible when you hit the 'Summit Report Out' button.
-
-    - If you turn off 'Instructions' then you will only see the page content for public display.
-
 ## Team (lucky) 13:
 
-!!! note "Day 1 directions" Change the title to the name of your project.
-
-    [Edit Day 1 setup in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L21){ .md-button target="_blank" rel="noopener" }
-
-!!! tip "For ESIIL staff" Group Number: 13
-
-    Breakout Room #: S127
-
-    [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
-
-!!! note "How to replace the image above" Upload an image that represents your
-project and welcome people to your page.
-
-    Upload your own image to `docs/assets/hero/` and replace the file named `hero.png`. Use a wide image if you can, then refresh the site preview to check how it looks.
-    Keep the file path `docs/assets/hero/hero.png` if you want the Markdown above to keep working.
-
-    [Open image folder for changing image](https://github.com/CU-ESIIL/Summit_group_2026_13/tree/main/docs/assets/hero){ .md-button target="_blank" rel="noopener" }
-
-[See a completed example](example.md){ .md-button }
+![Lucky 13 Project Workflow 1 (made in Claude Cowork)](documentation/pipeline_slide/Slide1.png)
+![Lucky 13 Project Workflow 2 (made in Claude Cowork)](documentation/pipeline_slide/Slide2.png)
 
 ## People { #people .oasis-report-out-context }
-
-!!! note "Day 1 task" Get to know your team: share your cards (5-7 mins). Update
-your team roster (2-3 min).
-
-    Use the in-person name cards to guide quick introductions.
-
-    | Name card prompts | Follow-up notes |
-    |---|---|
-    | ![Name card prompts for name, institution, area of expertise, research difference, and questions](assets/team/name-card-prompts.png) | ![Follow-up notes card with space for names and follow-up ideas](assets/team/name-card-followups.png) |
-
-    [Edit People in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L63){ .md-button target="_blank" rel="noopener" }
 
 | Name                  | Affiliation                 | Contact                | Github          |
 | --------------------- | --------------------------- | ---------------------- | --------------- |
@@ -76,24 +32,6 @@ your team roster (2-3 min).
 
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
-
-!!! note "Day 1 task"
-
-    Suggested Self-Facilitation Instructions:
-
-    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
-
-    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
-
-    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
-
-    - In GitHub, move all team norms with votes to the top of the list.
-
-    | Gradients of agreement |
-    |---|
-    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) |
-
-    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
 
 Our team norms:
 
@@ -117,13 +55,6 @@ Our team norms:
 ...
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
-
-!!! note "Day 2 Tasks" Morning Focus: questions, hypotheses, context; add at
-least one visual (photo of whiteboard/notes)
-
-    Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test.
-
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
 Short term:
 

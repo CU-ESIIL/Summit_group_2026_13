@@ -179,7 +179,7 @@ Data/Methods -> Findings -> Next
 
 ## Team Photo { #team-photo }
 
-![Team photo](images/1000004595.jpg)
+![Team photo](assets/1000004595.jpg)
 
 _Team members and collaborators who contributed to this project._
 

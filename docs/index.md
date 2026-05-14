@@ -10,8 +10,8 @@ public_mode_toggle: true
 
 ## Team (lucky) 13:
 
-![Lucky 13 Project Workflow 1 (made in Claude Cowork)](assets/pipeline_slide/Slide1.png)
-![Lucky 13 Project Workflow 2 (made in Claude Cowork)](assets/pipeline_slide/Slide2.png)
+![Lucky 13 Project Workflow 1 (made in Claude Cowork)](documentation/pipeline_slide/Slide1.png)
+![Lucky 13 Project Workflow 2 (made in Claude Cowork)](documentation/pipeline_slide/Slide2.png)
 
 ## People { #people .oasis-report-out-context }
 

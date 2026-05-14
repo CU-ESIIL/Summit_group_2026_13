@@ -73,7 +73,7 @@ your team roster (2-3 min).
 | Chong Seok Choi       | Cornell University          | cc3226@cornell.edu     | chongseokchoi   |
 | Sankung Fatty       | --          | fattysankung9@gmail.com     | --   |
 | Al Kaushkis       | --          | akuslikis@gmail.com     | --   |
-| Max Cook       | University of Colorado | maxwell.cook@colorado.edu     | --   |
+| Max Cook       | Colorado State University | maxwell.cook@colostate.edu     | maxwellCcook   |
 | Erica Laundreaux | -- | erica.lx32@gmail.com | -- |
 
 

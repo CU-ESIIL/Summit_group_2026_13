@@ -33,24 +33,6 @@ public_mode_toggle: true
 
 ## Team Norms and Decision Making { #team-norms-and-decision-making }
 
-!!! note "Day 1 task"
-
-    Suggested Self-Facilitation Instructions:
-
-    - Round Robin: Everyone shares 1 norm that they think will be important for their team during the Summit and perhaps following the Summit (2 min).
-
-    - After everyone has shared, make a list with as many norms as possible in GitHub (5–7 min).
-
-    - Vote on your top 3 ideas. (Each person gets 3 votes; you can use all your votes on 1 idea or spread them out) (2 min).
-
-    - In GitHub, move all team norms with votes to the top of the list.
-
-    | Gradients of agreement |
-    |---|
-    | ![Gradients of agreement scale for Summit teams](assets/hero/norms.png) |
-
-    [Edit Team Norms in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L87){ .md-button target="_blank" rel="noopener" }
-
 Our team norms:
 
 - Define everything:
@@ -73,13 +55,6 @@ Our team norms:
 ...
 
 ## Our product(s) 📣 { #product-direction .oasis-report-out-section .oasis-report-out-day2 }
-
-!!! note "Day 2 Tasks" Morning Focus: questions, hypotheses, context; add at
-least one visual (photo of whiteboard/notes)
-
-    Afternoon Focus: try a few datasets and analyses. Keep it visual, keep it simple. Update the site to reflect what you test.
-
-    [Edit content below here in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L106){ .md-button target="_blank" rel="noopener" }
 
 Short term:
 

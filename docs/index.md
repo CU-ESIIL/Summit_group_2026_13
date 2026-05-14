@@ -36,8 +36,6 @@ thinking throughout the Summit and will be used to share your work with others.
 
     [ESIIL staff edit in Markdown](https://github.com/CU-ESIIL/Summit_group_2026_13/edit/main/docs/index.md?plain=1#L28){ .md-button target="_blank" rel="noopener" }
 
-![Team hero image](assets/hero/hero.png)
-
 !!! note "How to replace the image above" Upload an image that represents your
 project and welcome people to your page.
 
@@ -246,7 +244,7 @@ Data/Methods -> Findings -> Next
 
 ## Team Photo { #team-photo }
 
-![Team photo](assets/team/team_photo.jpg)
+![Team photo](images/1000004595.jpg)
 
 _Team members and collaborators who contributed to this project._
 
